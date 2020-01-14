@@ -1,13 +1,3 @@
-# Netflex API Client
+**This repository has moved and is no longer maintained here**
 
-## Setup
-`composer require apility/netflex-api`
-
-## Usage
-
-```php
-use Netflex\API;
-
-API::setCredentials($publicKey, $privateKey);
-$client = API::getClient();
-```
+The new home for the netflex-sdk source code is https://github.com/netflex-sdk/api
